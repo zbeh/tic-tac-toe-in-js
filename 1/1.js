@@ -1,4 +1,4 @@
-////To be honst I did not it by myself ; I searched the solution. Although I figure out
+////To be honest I did not it by myself ; I searched the solution. Although I figure out
 // the strategy, I am not able to write it with the konwledge I earned from class. 
 // I think it is so much higher than our level. 
 const game = {
